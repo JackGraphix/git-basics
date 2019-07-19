@@ -1,0 +1,4 @@
+Git Basics Terminal Commands
+clear = clears terminal
+pwd = shows present working directory
+~ dd: show my main directory 
